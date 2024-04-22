@@ -548,9 +548,9 @@
   {
     "id": 155,
     "name": "Bonaire",
-    "iso3": " Sint Eustatius and Saba",
-    "iso2": "BES",
-    "numeric_code": "BQ",
+    "iso3": "BES",
+    "iso2": "BQ",
+    "numeric_code": 69,
     "phone_code": 535,
     "capital": 599,
     "currency": "Kralendijk",
